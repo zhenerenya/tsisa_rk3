@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/multi_kriterial.dir/main.cpp.o  -o multi_kriterial 
